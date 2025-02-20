@@ -1,4 +1,4 @@
-# Antokolskyj - Blender Animation Project
+# Antokolskyj - Animation Project
 
 This project is a Blender animation depicting scenes related to the life of the renowned sculptor Mark Matveyevich Antokolsky (also known as Marcus Antokolsky). The animation is being created by Ilya Minin (Eli) and Anna Yuytova for GRIG Film, under the direction of Grigoriy Ilugdin.
 
