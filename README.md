@@ -4,7 +4,7 @@ This project is a Blender animation depicting scenes related to the life of the 
 
 ## Project Overview
 
-The animation focuses on scenes from Antokolsky's life in Vilnius (Vilna), likely in the late 19th or early 20th century. The project explores themes of Antokolsky's identity as a Jewish artist, and the historical context of Vilnius's Jewish community, with a focus on key locations and characters from Antokolsky's life.
+The animation focuses on scenes from Antokolsky's life. The project explores themes of Antokolsky's identity as a Jewish artist, and the historical context of Jewish community, artistry, with a focus on key locations and characters from Antokolsky's life.
 
 ## File Structure
 
